@@ -52,7 +52,7 @@ You can also look at the process of creating an online store of my company on Vu
   <summary>Vue.js component for meetaps calendar</summary>
   <p>
 
-  ```javascript
+  ```vue
     <template>
       <div class="rangepicker">
         <div class="rangepicker__calendar">
