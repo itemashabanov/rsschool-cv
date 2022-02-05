@@ -48,11 +48,9 @@ You can also look at the process of creating an online store of my company on Vu
 
 ## 🛠 This is the example of my last code
 
-<details>
-  <summary>Vue.js component for meetaps calendar</summary>
-  <p>
+Vue.js component for meetaps calendar
 
-  ```
+  ```vue
     <template>
       <div class="rangepicker">
         <div class="rangepicker__calendar">
@@ -188,8 +186,5 @@ You can also look at the process of creating an online store of my company on Vu
     };
     </script>
   ```
-
-  </p>
-</details>
 
 ## Thank you very much for reading! ✌🏼
